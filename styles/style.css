@@ -3,8 +3,12 @@
     width: 1440px;
     justify-content: space-around;
 }
+body {
+    display: flex;
+    justify-content: center;
+}
 .bg{
-    background-image: url(img\BackgroundBG.png);
+    background-image: url(../img/BackgroundBG.png);
     width: 1440px;
     height: 866px;
     flex-shrink: 0;
