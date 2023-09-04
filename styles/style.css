@@ -73,7 +73,7 @@ body {
     font-feature-settings: 'liga' off;
         /* Display xl/Bold */
     font-family: Inter;
-    font-size: 72px;
+    font-size: 65px;
     font-style: normal;
     font-weight: 700;
     line-height: 71px; /* 120% */
@@ -99,6 +99,10 @@ margin-bottom: 0;
     display: flex;
     justify-content: space-around;
     width: 1440px;
+    margin-left: -22px;
+}
+.con2{
+    margin-top: 172px;
 }
 .bgimg{
     width: 1440px;
@@ -213,7 +217,4 @@ flex-shrink: 0;}
     height: 892px;
     background: var(--secondary-100, #D5FAFC);
 
-}
-.con2{
-    margin-top: 178px;
 }
