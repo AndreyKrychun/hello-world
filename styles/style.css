@@ -449,3 +449,41 @@ line-height: 28px; /* 155.556% */
     
     
 }
+.con55at{
+    align-self: stretch;
+    color: var(--neutral-900, #111827);
+    font-feature-settings: 'liga' off;
+    /* Display lg / Bold */
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 125% */
+    letter-spacing: -1.2px;
+    
+}
+.con55att{
+    align-self: stretch;
+    color: var(--neutral-900, #111827);
+    font-feature-settings: 'liga' off;
+    /* Body lg / Regular */
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+
+
+}
+.con56{
+    display: flex;
+}
+.con57a{
+    display: flex;
+}
+.con58{
+    display: flex;
+}
+.con59{
+    display: flex;
+}
