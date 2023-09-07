@@ -490,18 +490,59 @@ line-height: 28px; /* 155.556% */
 .con60a{
     margin-top: 0px;
     margin-bottom: 0px;
+    align-self: stretch;color: var(--neutral-900, #111827);
+    font-feature-settings: 'liga' off;
+    /* Display md/Bold */
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px; /* 125% */
+    letter-spacing: -0.9px;
+
 
 }
 .con60b{
     margin-top: 0px;
     margin-bottom: 0px;
+    align-self: stretch;
+    color: var(--neutral-900, #111827);
+    font-feature-settings: 'liga' off;
+    /* Body md / Regular */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    
 
 }
 .con58a1{
     margin-top: 0px;
     margin-bottom: 0px;
+    align-self: stretch;
+    color: var(--neutral-900, #111827);
+    font-feature-settings: 'liga' off;
+    /* Display md/Bold */
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px; /* 125% */
+    letter-spacing: -0.9px;
+    
 }
 .con58a2{
     margin-top: 0px;
     margin-bottom: 0px;
+    align-self: stretch;
+    color: var(--neutral-900, #111827);
+    font-feature-settings: 'liga' off;
+        /* Body md / Regular */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+
 }
