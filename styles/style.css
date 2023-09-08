@@ -677,7 +677,8 @@ line-height: 28px; /* 155.556% */
     background: var(--secondary-600, #1DB5BE);
 }
 .con80a{
-    margin-top: 0;
+    margin-top: 0px;
+    margin-right: 0px;
 }
 .con80aa{
     color: var(--neutral-900, #111827);
@@ -689,7 +690,7 @@ line-height: 28px; /* 155.556% */
     font-weight: 700;
     line-height: 60px; /* 125% */
     letter-spacing: -1.2px;
-    margin-top: 92px;
+    margin-top: 106px;
     margin-bottom: 9px;
     letter-spacing: 1.1px;
 
@@ -716,4 +717,29 @@ line-height: 28px; /* 155.556% */
     font-style: normal;
     font-weight: 500;
     line-height: 28px; /* 155.556% */
+    margin-top: 53px;
+    margin-bottom: 8px;
+
+}
+.con80b{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+
+}
+.con80ac{    
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+
+}
+.con85{
+    margin-top: 0px;
+    margin-left: 0px;
+
+}
+.con86{
+    margin-top: 0px;
+    margin-left: 0px;
+
 }
