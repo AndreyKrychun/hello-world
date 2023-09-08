@@ -458,11 +458,15 @@ line-height: 28px; /* 155.556% */
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
-    line-height: 60px; /* 125% */
-    letter-spacing: -1.2px;
+    line-height: 61px; /* 125% */
+    letter-spacing: 0.8px;
+    margin-left: 114px;
+    margin-top: 89px;
     
 }
 .con55att{
+    margin-top: -39px;
+    margin-left: 112px;
     align-self: stretch;
     color: var(--neutral-900, #111827);
     font-feature-settings: 'liga' off;
@@ -472,6 +476,7 @@ line-height: 28px; /* 155.556% */
     font-style: normal;
     font-weight: 400;
     line-height: 28px; /* 155.556% */
+    letter-spacing: 1.45px;
 
 
 }
@@ -483,6 +488,7 @@ line-height: 28px; /* 155.556% */
 }
 .con58{
     display: flex;
+    margin-left: 5px;
 }
 .con59{
     display: flex;
@@ -490,6 +496,7 @@ line-height: 28px; /* 155.556% */
 .con60a{
     margin-top: 0px;
     margin-bottom: 0px;
+    margin-left: 22px;
     align-self: stretch;color: var(--neutral-900, #111827);
     font-feature-settings: 'liga' off;
     /* Display md/Bold */
@@ -498,13 +505,14 @@ line-height: 28px; /* 155.556% */
     font-style: normal;
     font-weight: 700;
     line-height: 45px; /* 125% */
-    letter-spacing: -0.9px;
+    letter-spacing: 1.5px;
 
 
 }
 .con60b{
     margin-top: 0px;
     margin-bottom: 0px;
+    margin-left: 19px;
     align-self: stretch;
     color: var(--neutral-900, #111827);
     font-feature-settings: 'liga' off;
@@ -514,12 +522,15 @@ line-height: 28px; /* 155.556% */
     font-style: normal;
     font-weight: 400;
     line-height: 24px; /* 150% */
+    letter-spacing: 1.0px;
+
     
 
 }
 .con58a1{
     margin-top: 0px;
     margin-bottom: 0px;
+    margin-left: -5px;
     align-self: stretch;
     color: var(--neutral-900, #111827);
     font-feature-settings: 'liga' off;
@@ -529,12 +540,13 @@ line-height: 28px; /* 155.556% */
     font-style: normal;
     font-weight: 700;
     line-height: 45px; /* 125% */
-    letter-spacing: -0.9px;
+    letter-spacing: 3.6px;
     
 }
 .con58a2{
     margin-top: 0px;
     margin-bottom: 0px;
+    margin-left: -3px;
     align-self: stretch;
     color: var(--neutral-900, #111827);
     font-feature-settings: 'liga' off;
@@ -544,5 +556,39 @@ line-height: 28px; /* 155.556% */
     font-style: normal;
     font-weight: 400;
     line-height: 24px; /* 150% */
+    letter-spacing: 1.1px;
 
+}
+.con57b{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 7px;
+}
+.con68{
+    display: flex;
+}
+.con69{
+    display: flex;
+    margin-left: 161px;
+}
+.iso111{
+    width: 30px;
+    height: 32px;
+    margin-top: 16px;
+    margin-right: 35px;
+
+}
+.con56b{
+    margin-left: 246px;
+    margin-top: 80px;
+}
+.con58a{
+    margin-left: 27px;
+
+}
+.iso112{
+    margin-left: 100px;
+}
+.con59a{
+    margin-left: 6px;
 }
