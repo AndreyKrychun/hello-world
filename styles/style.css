@@ -671,14 +671,16 @@ line-height: 28px; /* 155.556% */
     margin-top: 81px;
     margin-left: 0;
     display: flex;
-    padding: 0px 112px;
+    /*padding: 0px 112px;*/
     align-items: center;
     gap: 32px;
     background: var(--secondary-600, #1DB5BE);
+    align-items: flex-start
 }
 .con80a{
-    margin-top: 0px;
+    margin-top: 4px;
     margin-right: 0px;
+    margin-left: 112px;
 }
 .con80aa{
     color: var(--neutral-900, #111827);
@@ -717,25 +719,25 @@ line-height: 28px; /* 155.556% */
     font-style: normal;
     font-weight: 500;
     line-height: 28px; /* 155.556% */
-    margin-top: 53px;
-    margin-bottom: 8px;
+    margin-top: 52px;
+    margin-bottom: 7px;
 
 }
 .con80b{
     margin-top: 0px;
-    margin-left: 0px;
+    margin-left: 54px;
     margin-bottom: 0px;
+    display: flex;
 
 }
-.con80ac{    
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-bottom: 0px;
-
+.con80c{
+    margin-top: 160px;
+    margin-left: -66px;
 }
 .con85{
     margin-top: 0px;
     margin-left: 0px;
+
 
 }
 .con86{
