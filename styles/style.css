@@ -745,3 +745,88 @@ line-height: 28px; /* 155.556% */
     margin-left: 0px;
 
 }
+.foot{
+    display: flex;
+    width: 1440px;
+    /*padding: 64px 112px;*/
+    align-items: flex-start;
+    background: var(--Black, #000);
+    justify-content: normal
+
+}
+.foot01{
+    margin-left: 39px;
+    margin-top: 0px;
+}
+.foot1{
+    color: var(--White, #FFF);
+    font-feature-settings: 'liga' off;
+    /* Body md / Regular */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    margin-top: 63px;
+    margin-left: 72px;
+    
+}
+.foot11{
+    margin-left: 0px;
+    margin-top: 16px;
+}
+.foot11 li{
+    display: inline-block;
+    letter-spacing: 1.1px;
+}
+.foot12{
+    margin-left: 0px;
+    margin-top: 16px;    
+}
+.foot12 li{
+    display: inline-block;
+    letter-spacing: 1.1px;
+    padding-right: 21px;
+}
+.foot13{
+    color: var(--neutral-300, #D1D5DB);
+    font-feature-settings: 'liga' off;
+    /* Body sm / Regular */
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    margin-left: 41px;
+    margin-top: 20px;
+    margin-bottom: 66px;
+    letter-spacing: 1.0px;
+
+}
+.foot20{
+    color: var(--neutral-300, #D1D5DB);
+    font-feature-settings: 'liga' off;
+    /* Body lg / Medium */
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 155.556% */
+    margin-left: 0px;
+    margin-top: 0px;
+
+}
+.foot2{
+    display: flex;
+    margin-left: 599px;
+    margin-top: 61px;
+    letter-spacing: 1.5px;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+.foot2002{
+    margin-top: 15px;
+}
+
