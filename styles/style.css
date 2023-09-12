@@ -2,11 +2,14 @@
     display: flex;
     width: 1440px;
     justify-content: flex-start;
-    margin-top: 17px;
-}
+ }
 body {
     display: flex;
     justify-content: center;
+}
+button {
+    background: none;
+    border: 0;
 }
 .bg{
     background-image: url(../img/BackgroundBG.png);
@@ -829,4 +832,22 @@ line-height: 28px; /* 155.556% */
 .foot2002{
     margin-top: 15px;
 }
-
+.burger {
+    display: none;
+}
+@media screen and (max-width: 1440px) {
+    .hr3 {
+        display: none;
+    }
+    .burger {
+        display: block;
+        margin-left: 40px;
+        
+    }
+}
+@media screen and (max-width: 1000px) {
+    
+}
+@media screen and (max-width: 768px) {
+    
+}
