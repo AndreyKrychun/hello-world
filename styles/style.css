@@ -836,6 +836,22 @@ line-height: 28px; /* 155.556% */
     display: none;
 }
 @media screen and (max-width: 1440px) {
+    .header{
+        display: flex;
+        justify-content: space-around;
+ 
+    }
+    .hr{
+        margin-left: 0px;
+    }
+    .con2{
+        margin-top: 77px;
+    }
+    .con22{
+        margin-top: 2px;
+    }
+    
+    }
     .hr3 {
         display: none;
     }
@@ -844,7 +860,7 @@ line-height: 28px; /* 155.556% */
         margin-left: 40px;
         
     }
-}
+
 @media screen and (max-width: 1000px) {
     
 }
