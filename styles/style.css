@@ -85,7 +85,39 @@ button {
     margin-top: 0;
     margin-bottom: 0;
 }
+.con21ff{
+    align-self: stretch;
+    color: var(--neutral-900, #111827);
+    font-feature-settings: 'liga' off;
+        /* Display xl/Bold */
+    font-family: Inter;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 69px; /* 120% */
+    letter-spacing: -1.1px;
+    margin-top: 2px;
+    margin-bottom: 14px;
+    margin-left: -1px;
+
+}
+
 .con22{
+    align-self: stretch;
+    color: var(--neutral-700, #374151);
+font-feature-settings: 'liga' off;
+/* Body lg/Regular */
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 29px; /* 155.556% */    
+margin-top: 19px;
+margin-bottom: 29px;
+
+
+}
+.con22ff{
     align-self: stretch;
     color: var(--neutral-700, #374151);
 font-feature-settings: 'liga' off;
@@ -835,35 +867,55 @@ line-height: 28px; /* 155.556% */
 .burger {
     display: none;
 }
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 768px) {
+    .bg{
+        width: 768px;
+
+    }
     .header{
-        display: flex;
-        justify-content: space-around;
- 
+        width: 768px;
     }
     .hr{
         margin-left: 0px;
     }
+    .con1{
+        flex-direction: column;
+        align-items: center;
+        width: 768px;
+        margin-left: -31px;
+    }
+    }
     .con2{
         margin-top: 77px;
     }
-    .con22{
+    .con21ff{
+        font-size: 48px;
+        line-height: 63px;
+    }
+    .con21{
+        display: none;
+    }
+    .con22ff{
         margin-top: 2px;
     }
-    
+    .con22{
+        display: none;
     }
+    .hr4{
+        margin-left: 190px;
+    }
+.container1{
+    width: 768px;
+}
     .hr3 {
         display: none;
     }
     .burger {
         display: block;
-        margin-left: 40px;
+        margin-left: 17px;
         
     }
 
-@media screen and (max-width: 1000px) {
-    
-}
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 375px) {
     
 }
